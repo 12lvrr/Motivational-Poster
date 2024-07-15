@@ -1,0 +1,17 @@
+html {
+    background-color:black
+}
+div {
+    height:100px;
+    width:50px;
+}
+
+h1 {
+    text-align:center;
+    color: white;
+}
+
+p {
+    text-align:center;
+    color: white;
+}
